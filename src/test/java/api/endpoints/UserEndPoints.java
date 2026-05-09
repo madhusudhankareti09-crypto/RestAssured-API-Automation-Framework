@@ -6,7 +6,7 @@ import io.restassured.response.Response;
 
 import static io.restassured.RestAssured.given;
 
-public class UserEndPoints
+public class UserEndPoints {
 
     public static Response createUser(User payload){
         Response response
