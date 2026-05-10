@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="PetSuite">
+    <listeners>
+        <listener class-name="api.utilites.ExtentReportManager"/>
+    </listeners>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/madhu/IdeaProjects/Petstore_API_Automation_Framework/src/test/java/api/test">
+        <classes>
+            <!--<class name="api.test.DPTests"/>-->
+            <class name="api.test.UserTests"/>
+        </classes>
+    </test>
+</suite>
