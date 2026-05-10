@@ -1,0 +1,24 @@
+2026-05-10 06:49:39 [main] INFO  api.test.UserTests - *********Creating User********
+2026-05-10 06:49:42 [main] INFO  api.test.UserTests - *********User is Created********
+2026-05-10 06:49:42 [main] INFO  api.test.UserTests - *********Getting User Info********
+2026-05-10 06:49:43 [main] INFO  api.test.UserTests - *********User Info is Displayed********
+2026-05-10 06:49:43 [main] INFO  api.test.UserTests - *********Update User Info********
+2026-05-10 06:49:47 [main] INFO  api.test.UserTests - *********User Info is Updated********
+2026-05-10 06:49:47 [main] INFO  api.test.UserTests - *********Delete User********
+2026-05-10 06:49:48 [main] INFO  api.test.UserTests - *********User is Deleted********
+2026-05-10 07:02:52 [main] INFO  api.test.UserTests - *********Creating User********
+2026-05-10 07:02:56 [main] INFO  api.test.UserTests - *********User is Created********
+2026-05-10 07:02:56 [main] INFO  api.test.UserTests - *********Getting User Info********
+2026-05-10 07:02:58 [main] INFO  api.test.UserTests - *********User Info is Displayed********
+2026-05-10 07:02:58 [main] INFO  api.test.UserTests - *********Update User Info********
+2026-05-10 07:03:01 [main] INFO  api.test.UserTests - *********User Info is Updated********
+2026-05-10 07:03:01 [main] INFO  api.test.UserTests - *********Delete User********
+2026-05-10 07:03:02 [main] INFO  api.test.UserTests - *********User is Deleted********
+2026-05-10 07:03:26 [main] INFO  api.test.UserTests - *********Creating User********
+2026-05-10 07:03:29 [main] INFO  api.test.UserTests - *********User is Created********
+2026-05-10 07:03:29 [main] INFO  api.test.UserTests - *********Getting User Info********
+2026-05-10 07:03:31 [main] INFO  api.test.UserTests - *********User Info is Displayed********
+2026-05-10 07:03:31 [main] INFO  api.test.UserTests - *********Update User Info********
+2026-05-10 07:03:34 [main] INFO  api.test.UserTests - *********User Info is Updated********
+2026-05-10 07:03:34 [main] INFO  api.test.UserTests - *********Delete User********
+2026-05-10 07:03:36 [main] INFO  api.test.UserTests - *********User is Deleted********
