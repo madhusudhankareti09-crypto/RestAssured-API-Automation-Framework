@@ -31,6 +31,7 @@ public class UserTests {
 
         //Initiated logs
         logger= LogManager.getLogger(this.getClass());
+        logger.debug("debug.........");
 
     }
 

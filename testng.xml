@@ -7,8 +7,9 @@
     <test verbose="2" preserve-order="true"
           name="C:/Users/madhu/IdeaProjects/Petstore_API_Automation_Framework/src/test/java/api/test">
         <classes>
-            <!--<class name="api.test.DPTests"/>-->
-            <class name="api.test.UserTests"/>
+            <!--<class name="api.test.DPTests"/>
+            <class name="api.test.UserTests"/>-->
+            <class name="api.test.PetTests"/>
         </classes>
     </test>
 </suite>

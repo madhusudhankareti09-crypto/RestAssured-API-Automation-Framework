@@ -22,3 +22,48 @@
 2026-05-10 07:03:34 [main] INFO  api.test.UserTests - *********User Info is Updated********
 2026-05-10 07:03:34 [main] INFO  api.test.UserTests - *********Delete User********
 2026-05-10 07:03:36 [main] INFO  api.test.UserTests - *********User is Deleted********
+2026-05-10 11:07:45 [main] DEBUG api.test.PetTests - debug.........
+2026-05-10 11:07:45 [main] INFO  api.test.PetTests - *********Creating Pet********
+2026-05-10 11:07:49 [main] INFO  api.test.PetTests - *********Pet is Created********
+2026-05-10 11:13:12 [main] DEBUG api.test.PetTests - debug.........
+2026-05-10 11:13:12 [main] INFO  api.test.PetTests - *********Getting User Info********
+2026-05-10 11:17:56 [main] DEBUG api.test.PetTests - debug.........
+2026-05-10 11:17:56 [main] INFO  api.test.PetTests - *********Creating Pet********
+2026-05-10 11:18:00 [main] INFO  api.test.PetTests - *********Pet is Created********
+2026-05-10 11:18:00 [main] INFO  api.test.PetTests - *********Getting User Info********
+2026-05-10 11:24:18 [main] DEBUG api.test.PetTests - debug.........
+2026-05-10 11:24:18 [main] INFO  api.test.PetTests - *********Creating Pet********
+2026-05-10 11:24:22 [main] INFO  api.test.PetTests - *********Pet is Created********
+2026-05-10 11:24:22 [main] INFO  api.test.PetTests - *********Getting User Info********
+2026-05-10 11:28:46 [main] DEBUG api.test.PetTests - debug.........
+2026-05-10 11:28:47 [main] INFO  api.test.PetTests - *********Creating Pet********
+2026-05-10 11:28:50 [main] INFO  api.test.PetTests - *********Pet is Created********
+2026-05-10 11:28:50 [main] INFO  api.test.PetTests - *********Getting User Info********
+2026-05-10 12:53:30 [main] DEBUG api.test.PetTests - debug.........
+2026-05-10 12:53:30 [main] INFO  api.test.PetTests - *********Getting User Info********
+2026-05-10 12:54:33 [main] DEBUG api.test.PetTests - debug.........
+2026-05-10 12:54:33 [main] INFO  api.test.PetTests - *********Creating Pet********
+2026-05-10 12:54:37 [main] INFO  api.test.PetTests - *********Pet is Created********
+2026-05-10 12:54:37 [main] INFO  api.test.PetTests - *********Getting User Info********
+2026-05-10 12:54:39 [main] INFO  api.test.PetTests - *********User Info is Displayed********
+2026-05-10 17:19:39 [main] DEBUG api.test.UserTests - debug.........
+2026-05-10 17:19:39 [main] INFO  api.test.UserTests - *********Creating User********
+2026-05-10 17:19:44 [main] INFO  api.test.UserTests - *********User is Created********
+2026-05-10 17:19:44 [main] INFO  api.test.UserTests - *********Getting User Info********
+2026-05-10 17:19:46 [main] INFO  api.test.UserTests - *********User Info is Displayed********
+2026-05-10 17:19:46 [main] INFO  api.test.UserTests - *********Update User Info********
+2026-05-10 17:19:49 [main] INFO  api.test.UserTests - *********User Info is Updated********
+2026-05-10 17:19:49 [main] INFO  api.test.UserTests - *********Delete User********
+2026-05-10 17:19:50 [main] INFO  api.test.UserTests - *********User is Deleted********
+2026-05-10 17:19:50 [main] DEBUG api.test.PetTests - debug.........
+2026-05-10 17:19:50 [main] INFO  api.test.PetTests - *********Creating Pet********
+2026-05-10 17:19:52 [main] INFO  api.test.PetTests - *********Pet is Created********
+2026-05-10 17:19:52 [main] INFO  api.test.PetTests - *********Getting User Info********
+2026-05-10 17:19:53 [main] INFO  api.test.PetTests - *********User Info is Displayed********
+2026-05-10 18:27:21 [main] DEBUG api.test.PetTests - debug.........
+2026-05-10 18:27:21 [main] INFO  api.test.PetTests - *********Creating Pet********
+2026-05-10 18:27:25 [main] INFO  api.test.PetTests - *********Pet is Created********
+2026-05-10 18:27:25 [main] INFO  api.test.PetTests - *********Getting User Info********
+2026-05-10 18:27:26 [main] INFO  api.test.PetTests - *********User Info is Displayed********
+2026-05-10 18:27:26 [main] INFO  api.test.PetTests - *********Delete User********
+2026-05-10 18:27:28 [main] INFO  api.test.PetTests - *********Pet is Deleted********
