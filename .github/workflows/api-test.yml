@@ -1,10 +1,9 @@
-name: API Automation Tests
+name: API Automation
 
 on:
   push:
     branches:
       - main
-
 
 jobs:
 
