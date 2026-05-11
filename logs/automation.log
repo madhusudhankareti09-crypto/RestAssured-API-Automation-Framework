@@ -175,3 +175,12 @@
 2026-05-11 19:12:42 [main] INFO  api.test.UserTests2 - *********User Info is Updated********
 2026-05-11 19:12:42 [main] INFO  api.test.UserTests2 - *********Delete User********
 2026-05-11 19:12:44 [main] INFO  api.test.UserTests2 - *********User is Deleted********
+2026-05-11 19:15:51 [main] DEBUG api.test.UserTests2 - debug.........
+2026-05-11 19:15:51 [main] INFO  api.test.UserTests2 - *********Creating User********
+2026-05-11 19:15:55 [main] INFO  api.test.UserTests2 - *********User is Created********
+2026-05-11 19:15:55 [main] INFO  api.test.UserTests2 - *********Getting User Info********
+2026-05-11 19:15:56 [main] INFO  api.test.UserTests2 - *********User Info is Displayed********
+2026-05-11 19:15:56 [main] INFO  api.test.UserTests2 - *********Update User Info********
+2026-05-11 19:16:00 [main] INFO  api.test.UserTests2 - *********User Info is Updated********
+2026-05-11 19:16:00 [main] INFO  api.test.UserTests2 - *********Delete User********
+2026-05-11 19:16:01 [main] INFO  api.test.UserTests2 - *********User is Deleted********
